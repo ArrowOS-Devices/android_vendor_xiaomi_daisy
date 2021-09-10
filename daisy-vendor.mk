@@ -580,14 +580,14 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/daisy/proprietary/vendor/etc/qdcm_calib_data_hx8399c_fhdplus_video_mode_dsi_panel.xml:$(TARGET_COPY_OUT_VENDOR)/etc/qdcm_calib_data_hx8399c_fhdplus_video_mode_dsi_panel.xml \
     vendor/xiaomi/daisy/proprietary/vendor/etc/qdcm_calib_data_ili7807_fhdplus_video_mode_dsi_panel.xml:$(TARGET_COPY_OUT_VENDOR)/etc/qdcm_calib_data_ili7807_fhdplus_video_mode_dsi_panel.xml \
     vendor/xiaomi/daisy/proprietary/vendor/etc/qdcm_calib_data_otm1911_fhdplus_video_mode_dsi_panel.xml:$(TARGET_COPY_OUT_VENDOR)/etc/qdcm_calib_data_otm1911_fhdplus_video_mode_dsi_panel.xml \
-    vendor/xiaomi/daisy/proprietary/vendor/firmware/FPCTZAPP.B00:$(TARGET_COPY_OUT_VENDOR)/firmware/FPCTZAPP.B00 \
-    vendor/xiaomi/daisy/proprietary/vendor/firmware/FPCTZAPP.B01:$(TARGET_COPY_OUT_VENDOR)/firmware/FPCTZAPP.B01 \
-    vendor/xiaomi/daisy/proprietary/vendor/firmware/FPCTZAPP.B02:$(TARGET_COPY_OUT_VENDOR)/firmware/FPCTZAPP.B02 \
-    vendor/xiaomi/daisy/proprietary/vendor/firmware/FPCTZAPP.B03:$(TARGET_COPY_OUT_VENDOR)/firmware/FPCTZAPP.B03 \
-    vendor/xiaomi/daisy/proprietary/vendor/firmware/FPCTZAPP.B04:$(TARGET_COPY_OUT_VENDOR)/firmware/FPCTZAPP.B04 \
-    vendor/xiaomi/daisy/proprietary/vendor/firmware/FPCTZAPP.B05:$(TARGET_COPY_OUT_VENDOR)/firmware/FPCTZAPP.B05 \
-    vendor/xiaomi/daisy/proprietary/vendor/firmware/FPCTZAPP.B06:$(TARGET_COPY_OUT_VENDOR)/firmware/FPCTZAPP.B06 \
-    vendor/xiaomi/daisy/proprietary/vendor/firmware/FPCTZAPP.MDT:$(TARGET_COPY_OUT_VENDOR)/firmware/FPCTZAPP.MDT \
+    vendor/xiaomi/daisy/proprietary/vendor/firmware/fpctzapp.b00:$(TARGET_COPY_OUT_VENDOR)/firmware/fpctzapp.b00 \
+    vendor/xiaomi/daisy/proprietary/vendor/firmware/fpctzapp.b01:$(TARGET_COPY_OUT_VENDOR)/firmware/fpctzapp.b01 \
+    vendor/xiaomi/daisy/proprietary/vendor/firmware/fpctzapp.b02:$(TARGET_COPY_OUT_VENDOR)/firmware/fpctzapp.b02 \
+    vendor/xiaomi/daisy/proprietary/vendor/firmware/fpctzapp.b03:$(TARGET_COPY_OUT_VENDOR)/firmware/fpctzapp.b03 \
+    vendor/xiaomi/daisy/proprietary/vendor/firmware/fpctzapp.b04:$(TARGET_COPY_OUT_VENDOR)/firmware/fpctzapp.b04 \
+    vendor/xiaomi/daisy/proprietary/vendor/firmware/fpctzapp.b05:$(TARGET_COPY_OUT_VENDOR)/firmware/fpctzapp.b05 \
+    vendor/xiaomi/daisy/proprietary/vendor/firmware/fpctzapp.b06:$(TARGET_COPY_OUT_VENDOR)/firmware/fpctzapp.b06 \
+    vendor/xiaomi/daisy/proprietary/vendor/firmware/fpctzapp.mdt:$(TARGET_COPY_OUT_VENDOR)/firmware/fpctzapp.mdt \
     vendor/xiaomi/daisy/proprietary/vendor/firmware/a506_zap.b00:$(TARGET_COPY_OUT_VENDOR)/firmware/a506_zap.b00 \
     vendor/xiaomi/daisy/proprietary/vendor/firmware/a506_zap.b01:$(TARGET_COPY_OUT_VENDOR)/firmware/a506_zap.b01 \
     vendor/xiaomi/daisy/proprietary/vendor/firmware/a506_zap.b02:$(TARGET_COPY_OUT_VENDOR)/firmware/a506_zap.b02 \
