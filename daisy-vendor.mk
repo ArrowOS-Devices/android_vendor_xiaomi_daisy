@@ -1866,7 +1866,7 @@ PRODUCT_PACKAGES += \
     TimeService \
     PowerOffAlarm \
     QtiTelephonyService \
-#    datastatusnotification \
+    datastatusnotification \
     imssettings \
     uceShimService \
     ims \
