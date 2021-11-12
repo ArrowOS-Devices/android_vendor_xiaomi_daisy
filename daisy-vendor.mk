@@ -1794,8 +1794,6 @@ PRODUCT_PACKAGES += \
     ims \
     qcrilmsgtunnel \
     dpmserviceapp \
-    QPerformance \
-    UxPerformance \
     tcmclient \
     CACertService \
     vendor.qti.hardware.alarm-V1.0-java \
